@@ -9,6 +9,12 @@
     src: url(shlop.otf);
 }
 
+@media (max-width: 700px){
+    .header, .footer{
+        min-width: auto;
+    }
+}
+
 .header{
     display: flex;
     font-family: headerFont;
