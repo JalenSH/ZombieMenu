@@ -21,6 +21,7 @@
     border-style: solid;
     border-width: 1px;
     border-color: white;
+    width: 100%;
 }
 
 .header img{
@@ -97,6 +98,7 @@
     border-style: solid;
     border-width: 1px;
     border-color: white;
+    width: 100%;
 }
 
 .credits{
