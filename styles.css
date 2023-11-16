@@ -143,5 +143,9 @@ html{
     .navbar{
         flex: 10%
     }
+
+    .info{
+        font-size: 2vw;
+    }
 }
 
