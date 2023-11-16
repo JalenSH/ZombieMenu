@@ -21,7 +21,7 @@
     border-style: solid;
     border-width: 1px;
     border-color: white;
-    width: 100%;
+    min-width: 100%;
 }
 
 .header img{
@@ -98,7 +98,7 @@
     border-style: solid;
     border-width: 1px;
     border-color: white;
-    width: 100%;
+    min-width: 100%;
 }
 
 .credits{
@@ -127,6 +127,6 @@
 
 .info{
     margin: 20px;
-    font-size: 20px;
+    font-size: 1.5vw;
 }
 
