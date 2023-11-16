@@ -24,7 +24,7 @@ html{
     justify-content: center;
     min-width: 100%;
     border-style: solid;
-    border-width: 2px;
+    border-width: 10px;
     border-color: white;
 }
 
@@ -101,7 +101,7 @@ html{
     color: white;
     min-width: 100%;
     border-style: solid;
-    border-width: 2px;
+    border-width: 10px;
     border-color: white;
 }
 
