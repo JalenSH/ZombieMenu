@@ -141,6 +141,7 @@ html{
     }
 
     .navbar{
+        display: inline-block;
         flex: 10%
     }
 
