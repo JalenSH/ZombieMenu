@@ -10,8 +10,8 @@
 }
 
 @media (max-width:500px){
-    .header, .footer{
-        overflow:scroll;
+    .footer{
+        flex-direction: column;
     }
 }
 
