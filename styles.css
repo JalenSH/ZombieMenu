@@ -11,7 +11,7 @@
 
 @media (max-width: 700px){
     .header, .footer{
-        min-width: auto;
+        overflow:scroll;
     }
 }
 
