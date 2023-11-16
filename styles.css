@@ -22,9 +22,6 @@ html{
     padding: 60px;
     text-align: center;
     justify-content: center;
-    border-style: solid;
-    border-width: 1px;
-    border-color: white;
     min-width: 100%;
 }
 
@@ -99,9 +96,6 @@ html{
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    border-style: solid;
-    border-width: 1px;
-    border-color: white;
     min-width: 100%;
 }
 
