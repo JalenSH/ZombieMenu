@@ -9,7 +9,7 @@
     src: url(shlop.otf);
 }
 
-@media (max-width:500px){
+@media screen and (max-width:500px){
     .footer{
         flex-direction: column;
         text-align: left;
