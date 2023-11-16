@@ -23,6 +23,9 @@ html{
     text-align: center;
     justify-content: center;
     min-width: 100%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
 }
 
 .header img{
@@ -97,6 +100,9 @@ html{
     background-size: cover;
     color: white;
     min-width: 100%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
 }
 
 .credits{
