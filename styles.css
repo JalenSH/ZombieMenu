@@ -9,11 +9,8 @@
     src: url(shlop.otf);
 }
 
-@media screen and (max-width:500px){
-    .footer{
-        flex-direction: column;
-        text-align: left;
-    }
+html{
+    background-color: black;
 }
 
 .header{
@@ -135,5 +132,22 @@
 .info{
     margin: 20px;
     font-size: 1.5vw;
+}
+
+@media screen and (max-width:500px){
+    .footer{
+        position: absolute;
+        flex-direction: column;
+        min-width: 100vw;
+    }
+    
+    .food{
+        max-width: auto;
+        flex: 90%
+    }
+
+    .navbar{
+        flex: 10%
+    }
 }
 
