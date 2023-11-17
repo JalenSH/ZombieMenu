@@ -56,7 +56,6 @@ h1{
 @media screen and (max-width: 500px){
     .title{
         flex-wrap: no-wrap;
-        flex-direction:row;
         background-image: none;
         font-size: 50%;
     }
@@ -70,8 +69,8 @@ h1{
     .buttons{
         display: flex;
         flex-direction: column;
-        right: 0px;
-        
+        margin-right: auto;
+        margin-left: auto;
     }
     
     button{
