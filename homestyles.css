@@ -54,8 +54,9 @@ h1{
 }
 
 @media screen and (max-width: 500px){
-    body{
-        display: none;
+    .title{
+        min-height: 100vh;
+        width: 100%;
     }
     .buttons{
         display: inline;
