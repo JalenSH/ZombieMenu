@@ -59,8 +59,9 @@ h1{
         height: 100vh;
         background-image: url(homebg.jpg);
         background-position: center;
+        font-size: 50%
     }
-    .body{
+    body{
         display: none;
     }
 
