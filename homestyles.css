@@ -57,8 +57,14 @@ h1{
     .title{
         flex-wrap: no-wrap;
         flex-direction:column;
-        background-size: cover;
+        background-image: none;
         font-size: 50%;
+    }
+
+    body{
+        background-image: url(homebg.jpg);
+        background-size: cover;
+        background-position: center;
     }
 
     .buttons{
