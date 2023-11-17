@@ -60,5 +60,13 @@ h1{
         background-image: url(homebg.jpg);
         background-position: center;
     }
+    .body{
+        display: none;
+    }
+
+    .buttons{
+        display: inline;
+        max-width: 100%;
+    }
           
 }
