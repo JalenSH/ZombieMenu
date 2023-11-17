@@ -30,6 +30,8 @@ body{
 
 button{
     background-color: green;
+
+    
     font-family: headerFont;
     font-size: 20px;
     padding: 30px 50px;
@@ -50,4 +52,14 @@ h1{
     font-size: 120px;
     text-align: center;
     color: green;
+}
+
+@media screen and (max-width: 500px){
+    .title{
+        width: 100%;
+        background-image: url(homebg.jpg);
+        background-size: cover
+        background-position: center;
+    }
+          
 }
