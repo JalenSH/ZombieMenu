@@ -147,7 +147,8 @@ html{
     }
 
     .header img{
-        height: 5px;
+        height: 50%;
+        width: 50%;
     }
 
     .navbar{
