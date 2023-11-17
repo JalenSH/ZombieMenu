@@ -61,9 +61,9 @@ h1{
         width: 100%;
         font-size: 50%;
     }
-    .buttons{
-        display: inline;
-        max-width: 100%;
+    button{
+        width:10%;
     }
+
           
 }
