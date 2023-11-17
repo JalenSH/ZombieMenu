@@ -58,7 +58,7 @@ h1{
     .title{
         width: 100%;
         background-image: url(homebg.jpg);
-        background-size: cover
+        background-size: cover;
         background-position: center;
     }
           
