@@ -71,11 +71,5 @@ h1{
         flex-direction: column;
         margin-right: auto;
         margin-left: auto;
-    }
-    
-    button{
-        width: 100%;
-    }
-
-          
+    }      
 }
