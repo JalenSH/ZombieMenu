@@ -146,6 +146,10 @@ html{
         flex: 90%
     }
 
+    .header img{
+        height: 5vw;
+    }
+
     .navbar{
         display: inline-block;
         flex: 10%
