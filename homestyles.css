@@ -81,14 +81,6 @@ h1{
 }
 
 @media screen and (max-width: 500px) {
-    .buttons{
-        display: none;
-    }
-    
-    .navbar{
-        display: flex;
-    }
-
     .title{
         flex-wrap: no-wrap;
         background-image: none;
