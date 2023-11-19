@@ -29,6 +29,7 @@ body{
 }
 
 .buttons{
+    display:flex;
     margin-right:auto;
     margin-left:auto;
 }
@@ -72,7 +73,7 @@ h1{
     }
 
     .buttons{
-        display:none;
+        display: none;
     }
 }
 
