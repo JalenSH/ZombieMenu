@@ -28,6 +28,11 @@ body{
     background-position: center;
 }
 
+.buttons{
+    margin-right:auto;
+    margin-left:auto;
+}
+
 button{
     background-color: green;
     font-family: headerFont;
