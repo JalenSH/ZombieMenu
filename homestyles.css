@@ -70,6 +70,10 @@ h1{
         background-size: cover;
         background-position: center;
     }
+
+    .buttons{
+        display:none;
+    }
 }
 
 @media screen and (orientation: landscape) and (max-width: 700px){
