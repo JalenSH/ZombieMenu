@@ -67,9 +67,10 @@ h1{
     }
 }
 
-@media screen  and (min-width:500px) and (max-width:700px){
+@media only screen and (orientation: landscape) and (max-width: 700px) {
     .buttons{
         display: flex;
+        flex-direction: row;
         margin-right:auto;
         margin-left:auto;
     }
