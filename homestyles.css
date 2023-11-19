@@ -66,5 +66,9 @@ h1{
         background-position: center;
     }
 
+    button{
+        width: 100%;
+    }
+
 
 }
