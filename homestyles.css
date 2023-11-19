@@ -28,12 +28,6 @@ body{
     background-position: center;
 }
 
-.buttons{
-    display:flex;
-    margin-right:auto;
-    margin-left:auto;
-}
-
 button{
     background-color: green;
     font-family: headerFont;
@@ -65,11 +59,7 @@ h1{
         background-image: none;
         font-size: 50%;
     }
-
-    .buttons{
-        flex-direction: column;
-    }
-
+    
     body{
         background-image: url(homebg.jpg);
         background-size: cover;
