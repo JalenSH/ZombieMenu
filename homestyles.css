@@ -65,9 +65,4 @@ h1{
         background-size: cover;
         background-position: center;
     }
-
-    .buttons{
-        justify-content: center;
-        align-items: center;
-    }
 }
