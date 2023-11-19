@@ -66,6 +66,11 @@ h1{
         background-position: center;
     }
 
+    .buttons{
+        justify-content: center;
+        align-items: center;
+    }
+
     button{
         width: 100%;
     }
