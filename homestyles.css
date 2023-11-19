@@ -51,6 +51,11 @@ body{
 }
 
 
+.buttons{
+    margin-right: auto;
+    margin-left: auto;
+}
+
 button{
     background-color: green;
     font-family: headerFont;
@@ -61,7 +66,6 @@ button{
     border-style: solid;
     border-width: 2px;
     border-color: black;
-    color: black;
 }
 
 button:hover{
@@ -76,7 +80,7 @@ h1{
     color: green;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 500px) {
     .buttons{
         display: none;
     }
@@ -84,7 +88,7 @@ h1{
     .navbar{
         display: flex;
     }
-    
+
     .title{
         flex-wrap: no-wrap;
         background-image: none;
