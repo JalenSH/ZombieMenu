@@ -71,11 +71,3 @@ h1{
         background-position: center;
     }
 }
-
-@media only screen and (orientation: landscape) and (max-width: 900px) {
-    .buttons{
-        display: flex;
-        margin-right:auto;
-        margin-left:auto;
-    }
-}
