@@ -1,2 +1,2 @@
 # ZombieMenu
-Zombie Menu website using HTML and CSS
+Zombie Menu featuring appetizers, main dishes, and desserts that include parts of the brain. The descriptions explain the function of that particular part of the brain and what it will improve. The website is coded using HTML and CSS.
