@@ -38,6 +38,7 @@ body{
     font-size: 24px;
     width: 100vw;
     text-align: center;
+    font-family: headerFont;
 }
 
 .navbar a{
